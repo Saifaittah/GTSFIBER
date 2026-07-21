@@ -1,0 +1,6 @@
+Place your video files here:
+
+- English homepage: videos/gts-english.webm
+- Arabic homepage: videos/gts-arabic.webm
+
+The Home page video sections are wired to these paths.

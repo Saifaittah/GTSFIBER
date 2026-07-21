@@ -1,0 +1,14 @@
+Drop the three "Real Projects. Proven Performance." images in THIS folder
+using these exact filenames. They will appear automatically on both the
+English (index.html) and Arabic (ar/index.html) homepages — no code changes needed.
+
+Required files (images/projects/):
+- sudair.webp          -> Sudair Ready-Built Factories Project (featured, wide card)
+- mahmoud-saeed.webp   -> Mahmoud Saeed Factory (Jeddah)
+- aircraft-hangars.webp -> Aircraft Hangars (Jeddah)
+
+Notes:
+- Format: .webp with these exact names.
+- Recommended size: featured ~1600x900+, side cards ~1200x675+.
+- Images auto-fill the card (object-fit: cover), keep rounded corners, the dark
+  gradient overlay, and all hover effects. No other action required.

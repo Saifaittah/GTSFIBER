@@ -1,0 +1,5 @@
+Add Laser Screed media assets in this folder:
+
+- laser-screed.mp4
+- laser-machine.webp
+- laser-action.webp

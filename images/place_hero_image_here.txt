@@ -1,0 +1,5 @@
+Place your hero image at:
+
+images/hero.jpg
+
+This project expects a night concrete pouring image (machine on left, smooth surface on right).

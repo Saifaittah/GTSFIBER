@@ -1,0 +1,7 @@
+Add your Projects Carousel images in this folder.
+Recommended: wide aerial photos (16:9 or wider), 2000px+ wide if possible.
+
+Example filenames:
+- sudair-ready-built-factories-aerial-01.jpg
+- sudair-ready-built-factories-aerial-02.jpg
+

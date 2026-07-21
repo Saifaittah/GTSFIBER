@@ -1,0 +1,8 @@
+Add these real images here (exact filenames):
+
+- images/why-gts-section/steel-replacement.jpg
+- images/why-gts-section/crack-control.png
+- images/why-gts-section/heavy-load.jpg
+- images/why-gts-section/fast-installation.jpg
+
+They are used as background images in the “Why Choose GTS Fiber” cards on `index.html`.
